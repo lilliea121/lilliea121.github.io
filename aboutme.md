@@ -23,3 +23,11 @@ This semester affirmed my passion for storytelling, a common theme that runs thr
 Digital humanities serves as a link between technology and human experience. This field deserves more attention, as it fosters a deeper understanding of the cultural and historical stories embedded in data. From preserving historical voices to ethically managing data and crafting meaningful visualizations, the field highlights the need for both empathy and deliberate care in every aspect of its work.
 
 Looking ahead, I am excited to carry the skills I developed this semester into future projects. I have no doubt that my new mindset and skills will shape my academic and professional pursuits. As I continue to explore new tools and methods, I hope to deepen my understanding of storytelling and contribute meaningfully to the evolving field of digital humanities.
+
+Bibliography
+
+Lesser, Zachary, and Whitney Trettien. Material / Digital. Accessed December 10, 2024. https://example.com/material_digital.
+
+Bouk, Dan. Democracy's Data: The Hidden Stories in the U.S. Census and How to Read Them. New York: Farrar, Straus and Giroux, 2022.
+
+Rawson, Katie, and Trevor Muñoz. "Against Cleaning." In Debates in the Digital Humanities 2019, edited by Matthew K. Gold and Lauren F. Klein, 279–85. Minneapolis: University of Minnesota Press, 2019.
