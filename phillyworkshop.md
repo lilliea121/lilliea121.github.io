@@ -5,4 +5,6 @@ During the workshop, we downloaded and explored Audacity, a free, open-source au
 One of the most hands-on and eye-opening parts of the workshop was experimenting with various microphones. Since the session was in person, we had the opportunity to test how microphone quality and price can drastically impact recording clarity. We also discussed how subtle factors, like the angle and distance of the microphone, can affect sound quality. This was especially interesting because I had assumed those details weren’t as critical as they turned out to be. A recurring theme throughout was the importance of preserving sound and maintaining the intended message, a concept that echoed the larger discussions about preserving important and potentially sensitive stories that have come up in class.
 Ultimately, this workshop allowed me to engage with the concept of preservation from a fresh angle. I was able to understand the value of sound as a medium while broadening my technical knowledge in audio recording. I wonder if I will continue to use audacity in the future!
 
-<img src="images/microphones.jpeg" alt="Microphones" width="50%">
+<img src="images/microphones.jpeg" alt="Microphones" width="40%">
+
+(I didn't take a selfie but here is some of the microphones we used!)
