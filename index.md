@@ -1,6 +1,6 @@
 # Welcome to My Portfolio!
 
-This site serves as a portfolio of all of my digital humanities work!
+This github site serves as a portfolio of all of my digital humanities work!
 
 ## Quick Links
 - [aboutme](aboutme.md)
