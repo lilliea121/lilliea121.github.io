@@ -2,6 +2,10 @@
 
 This github site serves as a portfolio of all of my digital humanities work!
 
-## Quick Links
+## My Work
 - [aboutme](aboutme.md)
-- [lilliea121.github.io/aboutme)
+- [pennworkshop](pennworkshop.md)
+- [phillyworkshop](phillyworkshop.md)
+- [digitalfabrication](digitalfabrication.md)
+- [multimediaessay](multimediaessay.md)
+- [lookingforward](lookingforward.md)
