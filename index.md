@@ -1,14 +1,7 @@
-layout: default
-title: "Welcome to My Project"
----
+# Welcome to My Portfolio!
 
-# Welcome to My Project
-
-This site provides information about my project. Here you’ll find:
-- **Documentation** to help you get started.
-- Tutorials to guide you through key features.
-- Background about the project’s goals and development.
+This site serves as a portfolio of all of my digital humanities work!
 
 ## Quick Links
-- [README](README.md)
-- [GitHub Repository](https://github.com/username/repository-name)
+- [aboutme](aboutme.md)
+- [lilliea121.github.io/aboutme)
