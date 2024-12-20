@@ -1,3 +1,15 @@
 theme: jekyll-theme-midnight
 title: Lillie's Digital Humanities Website
 description: Here is a portfolio of what I've been up to in my Digital Humanities Class!
+
+nav: 
+- title: "Home"
+url: lilliea121.github.io
+title: "About Me"
+url: lilliea121.github.io/aboutme
+
+nav:
+  - title: "Home"
+    url: "lilliea121.github.io"
+  - title: "About Me"
+    url: "lilliea121.github.io/aboutme"
