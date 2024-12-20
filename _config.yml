@@ -7,9 +7,3 @@ nav:
 url: lilliea121.github.io
 title: "About Me"
 url: lilliea121.github.io/aboutme
-
-nav:
-  - title: "Home"
-    url: "lilliea121.github.io"
-  - title: "About Me"
-    url: "lilliea121.github.io/aboutme"
