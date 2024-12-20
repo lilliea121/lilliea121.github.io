@@ -26,8 +26,8 @@ Looking ahead, I am excited to carry the skills I developed this semester into f
 
 Bibliography
 
-Lesser, Zachary, and Whitney Trettien. Material / Digital. Accessed December 10, 2024. https://example.com/material_digital.
+1. Lesser, Zachary, and Whitney Trettien. Material / Digital. Accessed December 10, 2024. https://example.com/material_digital.
 
-Bouk, Dan. Democracy's Data: The Hidden Stories in the U.S. Census and How to Read Them. New York: Farrar, Straus and Giroux, 2022.
+2. Bouk, Dan. Democracy's Data: The Hidden Stories in the U.S. Census and How to Read Them. New York: Farrar, Straus and Giroux, 2022.
 
-Rawson, Katie, and Trevor Muñoz. "Against Cleaning." In Debates in the Digital Humanities 2019, edited by Matthew K. Gold and Lauren F. Klein, 279–85. Minneapolis: University of Minnesota Press, 2019.
+3. Rawson, Katie, and Trevor Muñoz. "Against Cleaning." In Debates in the Digital Humanities 2019, edited by Matthew K. Gold and Lauren F. Klein, 279–85. Minneapolis: University of Minnesota Press, 2019.
