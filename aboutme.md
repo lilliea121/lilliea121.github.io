@@ -1,6 +1,3 @@
-<img src="images/headshot.jpeg" alt="Headshot" width="30%">
-
-
 Throughout this semester, I worked on a diverse range of projects that introduced me to the multifaceted world of digital humanities. These projects combined technology, creativity, and critical thinking, pushing me to engage with tools and methods that initially felt daunting. If you had asked me in August to explain what digital humanities entailed, I would have struggled to offer a coherent answer. Back then, I might have guessed it involved digitizing old books or using software to analyze text. My understanding of the field’s scope or significance was limited.
 
 As a lifelong creative and learner, I have always sought opportunities to expand my understanding of the world and integrate new skills into my personal and professional pursuits. Now, after immersing myself in this course, I see digital humanities as a space where technology and human curiosity intersect. This intersection reshaped my understanding of how knowledge is spread and interpreted. Along the way, I explored new computational tools, approaches to data, and hands-on techniques for making. These experiences feel deeply relevant to my academic interests and my broader fascination in our fast-paced digital world.
